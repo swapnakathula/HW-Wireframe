@@ -1,0 +1,54 @@
+body {
+    background-color: #777;
+    width: 960px;
+}
+
+h1 {
+    font-family: Arial, Helvetica, sans-serif ;
+    font-size: 18px;
+}
+
+header,nav,footer {
+    clear: both;
+    text-align: center;
+    background-color: #ebebeb;
+    margin: 10px 150px 10px 120px;
+    padding: 10px 30px 10px 20px;
+    width: 960px;
+}
+
+aside { 
+    float:right;
+    display: block;
+    text-align: center;
+    background-color: #ebebeb;
+    width: 30%;
+    margin: 10px 5px 10px 5px;
+     padding: 10px 10px 260px 10px;
+}
+/*I couldn't able to align the aside length .If I increase its width its going down .*/
+
+section { 
+    float: left;
+    display: block;
+    text-align: center;
+    background-color: #ebebeb;
+    width: 495px;
+     margin: 10px 5px 10px 120px;
+     padding: 30px 10px 5px 10px;
+}
+
+
+
+article {
+    background-color: #777;
+    text-align: center;
+    padding: 5px 10px 30px 10px;
+    margin: 30px 10px 30px 10px;
+}
+
+p {
+    background-color: #ebebeb;
+    margin: 5px 10px 10px 10px;
+    padding: 10px 10px 10px 10px;  
+}
