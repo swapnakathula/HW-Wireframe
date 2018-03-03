@@ -1,6 +1,7 @@
 body {
     background-color: #777;
     width: 960px;
+    margin: auto;
 }
 
 h1 {
@@ -12,9 +13,9 @@ header,nav,footer {
     clear: both;
     text-align: center;
     background-color: #ebebeb;
-    margin: 10px 150px 10px 120px;
+    margin: 10px 0px 10px 0px;
     padding: 10px 30px 10px 20px;
-    width: 900px;
+    width: 910px;
 }
 
 aside { 
@@ -22,9 +23,9 @@ aside {
     display: block;
     text-align: center;
     background-color: #ebebeb;
-    width: 30%;
-    margin: 10px 5px 10px 5px;
-     padding: 10px 10px 260px 10px;
+    width: 40%;
+    margin: 10px 0px 10px 0px;
+     padding: 10px 20px 260px 10px;
 }
 /*I couldn't able to align the aside length .If I increase its width its going down .*/
 
@@ -34,7 +35,7 @@ section {
     text-align: center;
     background-color: #ebebeb;
     width: 495px;
-     margin: 10px 5px 10px 120px;
+     margin: 10px 0px 10px 0px;
      padding: 30px 10px 5px 10px;
 }
 
